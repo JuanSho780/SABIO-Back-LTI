@@ -1,5 +1,3 @@
-fastapi[standart]
-uvicorn[standart]
 PyLTI1p3
 flask
 pyjwt
